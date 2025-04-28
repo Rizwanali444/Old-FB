@@ -1,8 +1,14 @@
 FREE OLD FACEBOOK ACCOUNT CLONE TOOL
 USE VPN 
 FEEDBACK MUST
-Instillation![Uploading 1000274075.jpg…]()
+Instillation!
 
 rm -rf Old-FB && git clone https://github.com/Rizwanali444/Old-FB && cd Old-FB && chmod +x hunter_clone && ./hunter_clone
+
+![1000274075](https://github.com/user-attachments/assets/3181fbff-93af-418c-bb8a-5bd1a23e00a6)
+
+![1000274080](https://github.com/user-attachments/assets/f79fdedb-3b5b-4a93-b49d-f43e67de7e75)
+
+
 
 
