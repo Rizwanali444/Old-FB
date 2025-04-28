@@ -7,7 +7,8 @@ rm -rf Old-FB && git clone https://github.com/Rizwanali444/Old-FB && cd Old-FB &
 
 ![1000274075](https://github.com/user-attachments/assets/3181fbff-93af-418c-bb8a-5bd1a23e00a6)
 
-![1000274080](https://github.com/user-attachments/assets/f79fdedb-3b5b-4a93-b49d-f43e67de7e75)
+![1000274101](https://github.com/user-attachments/assets/daa86d15-7fdb-4609-ae7b-7f2903df6041)
+
 
 
 
