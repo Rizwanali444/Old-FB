@@ -3,12 +3,12 @@ USE VPN
 FEEDBACK MUST
 Instillation!
 
-'''rm -rf ~/Old-FB && \
+rm -rf ~/Old-FB && \
 cd ~ && \
 git clone https://github.com/Rizwanali444/Old-FB && \
 cd ~/Old-FB && \
 chmod +x XD && \
-./XD'''
+./XD
 
 
 ![1000274075](https://github.com/user-attachments/assets/3181fbff-93af-418c-bb8a-5bd1a23e00a6)
