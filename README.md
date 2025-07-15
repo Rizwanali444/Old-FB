@@ -110,6 +110,8 @@ A: Tool ka option [2] use karo for UID file creation.
 👤 Name: Rizwan Ali x Arnold team
 🌐 GitHub: https://github.com/Rizwanali444
 📞 WhatsApp: 03200964191
+📘 Facebook: https://www.facebook.com/share/1F3vo8EMc7/
+▶️ YouTube: https://youtube.com/@rizwanali46718?si=91sG2seo4K_87bhe
 ```
 
 ---
