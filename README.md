@@ -119,9 +119,10 @@ https://github.com/Rizwanali444/Old-FB
 
 
 
-![1000274075](https://github.com/user-attachments/assets/3181fbff-93af-418c-bb8a-5bd1a23e00a6)
 
-![1000274101](https://github.com/user-attachments/assets/daa86d15-7fdb-4609-ae7b-7f2903df6041)
+![1000448613](https://github.com/user-attachments/assets/c0893709-acdf-417b-87e8-4ad369d3fcf6)
+![1000448612](https://github.com/user-attachments/assets/6e01c99c-e61d-4f94-b2e4-6634739a8700)
+
 
 
 
