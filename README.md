@@ -21,6 +21,7 @@
 
 ---
 
+
 ## ⚙️ Installation (For Termux Users)
 
 Open your Termux app and paste the following commands one by one:
@@ -33,27 +34,6 @@ cd ~/Old-FB
 chmod +x XD
 ./XD
 ````
-
----
-
-## 📋 Tool Menu Options
-
-```text
-[1] Start File Cloning
-[0] Exit Tool
-```
-
----
-
-## 📁 Output Files
-
-```text
-✅ OK Results Saved In: OK.txt
-❌ CP Results Saved In: CP.txt
-📂 Location: Inside Tool Directory
-```
-
----
 
 ## 🌐 Use VPN – Mandatory
 
@@ -97,9 +77,6 @@ A: Run termux-setup-storage and allow permission.
 
 Q: VPN zaroori hai kya?
 A: Yes! VPN se IP block avoid hota hai. Use trusted VPN servers.
-
-Q: File banani hai kaise?
-A: Tool ka option [2] use karo for UID file creation.
 ```
 
 ---
